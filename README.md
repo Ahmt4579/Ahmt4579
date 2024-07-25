@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Ahmt4579
+- 👀 I’m interested in capturing the D point.
+- 🌱 I’m currently learning OOP in C# programming language.
+- 💞️ I’m looking to collaborate on nothing currently. I'm still a cs student.
+- 📫 Contact me from my mail adress: afmngun@hotmail.com (It may took long to get a response)
+- 😄 Pronouns: Computer Scientist/Scientist (I'm a male why is there a 'pronouns' section anyway?)
+- ⚡ Fun fact: The only programming language they have in hell is Java.
